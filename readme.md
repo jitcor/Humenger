@@ -29,15 +29,15 @@
         </a>
         <!-- Go -->
         <a href="https://github.com/Humenger?tab=repositories" target="_blank"><img alt="Go"
-                        src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+                        src="https://img.shields.io/badge/-Go-E34F26?style=flat-square&logo=Go&logoColor=white">
         </a>
         <!-- Java  -->
         <a href="https://github.com/Humenger?tab=repositories" target="_blank"><img alt="Java"
-                        src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+                        src="https://img.shields.io/badge/-Java-1572B6?style=flat-square&logo=Java&logoColor=white">
         </a>
         <!-- Android -->
         <a href="https://github.com/Humenger?tab=repositories" target="_blank"><img alt="Android"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+                        src="https://img.shields.io/badge/-Android-F7DF1E?style=flat-square&logo=Android&logoColor=white">
         </a>
         <!-- Python -->
         <a href="https://github.com/Humenger?tab=repositories" target="_blank"><img alt="Python"
@@ -45,7 +45,7 @@
         </a>
         <!-- C -->
         <a href="https://github.com/Humenger?tab=repositories" target="_blank"><img alt="C"
-                        src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
+                        src="https://img.shields.io/badge/-C-9b3675?style=flat-square&logo=C&logoColor=white">
         </a>
         <!-- Arduino -->
         <a href="https://github.com/Humenger?tab=repositories" target="_blank"><img alt="Arduino"
