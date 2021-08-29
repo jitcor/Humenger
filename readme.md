@@ -16,9 +16,9 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 From Dhaka, Bangladesh 」
+                「 From Shanghai, China 」
                 <br>
-                「 Student, Computer Science & Engineering @<b> University of Asia Pacific</b> 」
+                「 Android Reverse engineer, applied electronic technology @<b> Henan Institute of Science and Technology, China</b> 」
                 <br>
                 <br>
         </samp>
@@ -59,7 +59,7 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Shahriar Shafin's GitHub Stats"
+        <img alt="Humenger's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=Humenger&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
