@@ -80,3 +80,5 @@
         "Happy Coding👨‍💻!"
     </p>
 </samp>
+<!-- 在想要使用窗口小部件的地方插入该标签 -->
+<iframe width="640" height="640" src="https://cybermap.kaspersky.com/cn/widget/dynamic/dark" frameborder="0">
