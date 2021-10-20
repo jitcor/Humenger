@@ -16,9 +16,9 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 From Shanghai, China 」
+                「 From Beijing, China 」
                 <br>
-                「 Android Reverse engineer, applied electronic technology @<b> Henan Institute of Science and Technology, China</b> 」
+                「 Android Reverse engineer, applied electronic technology @<b> Shan Dong University, China</b> 」
                 <br>
                 <br>
         </samp>
@@ -65,7 +65,7 @@
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Gmail -->
-        <a href="mailto:louis4china@gmail.com" target="_blank"><img alt="Gmail"
+        <a href="mailto:good@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
     </p>
