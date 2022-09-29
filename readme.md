@@ -73,7 +73,7 @@
 <br>
     <p align="center">
         <img alt="Humenger's GitHub Stats"
-                src="https://user-images.githubusercontent.com/27600008/192499387-cfd149f5-b2a8-4a6d-8c0a-5138c06f5e11.jpg" />
+                src="https://user-images.githubusercontent.com/27600008/192949274-15f6ad63-3732-42ee-af2d-63388855d12b.jpg" />
     </p>
 <!-- Footer -->
 <samp>
@@ -83,6 +83,4 @@
         "Happy Coding👨‍💻!"
     </p>
 </samp>
-
-
 
