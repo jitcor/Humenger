@@ -72,8 +72,10 @@
 </details>
 <br>
     <p align="center">
-        <img alt="Humenger's GitHub Stats"
-                src="https://user-images.githubusercontent.com/27600008/192949274-15f6ad63-3732-42ee-af2d-63388855d12b.jpg" />
+        更多逆向技术加入星球《<a href="https://t.zsxq.com/071NJKjZb">逆向涉猎</a>》获取
+    </p>
+    <p align="center">
+        More reverse techniques join the planet 《<a href="https://t.zsxq.com/071NJKjZb">Reverse Dabbling</a>》 to get them.
     </p>
 <!-- Footer -->
 <samp>
