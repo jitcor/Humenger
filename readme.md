@@ -78,7 +78,7 @@
         More reverse techniques join the planet 《<a href="https://t.zsxq.com/071NJKjZb">Reverse Dabbling</a>》 to get them.
     </p>
     <p align="center">
-       <img src="https://user-images.githubusercontent.com/27600008/202980183-ba3ac0a3-217a-4f28-97f0-6efdb1d79d9f.jpg"/>
+      <!--  <img src="https://user-images.githubusercontent.com/27600008/202980183-ba3ac0a3-217a-4f28-97f0-6efdb1d79d9f.jpg"/>  -->
     </p>
 
     
