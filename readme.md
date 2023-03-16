@@ -71,9 +71,10 @@
     </p>
 </details>
 <br>
-    <p align="center">
+    <!--  <p align="center">
         更多逆向技术加入星球《<a href="https://t.zsxq.com/071NJKjZb">逆向涉猎</a>》获取
     </p>
+ -->
     <p align="center">
         More reverse techniques join the planet 《<a href="https://t.zsxq.com/071NJKjZb">Reverse Dabbling</a>》 to get them.
     </p>
