@@ -69,7 +69,7 @@
 </details>
 <br>
     <p align="center">
-        Contact us: <a href="https://t.zsxq.com/13sBE3elb">Knowledge Planet</a> OR <a href="https://discord.gg/vsChYJ2ret">Discord</a>
+        Contact us: <a href="https://t.zsxq.com/13sBE3elb">Knowledge Planet</a> | <a href="https://discord.gg/vsChYJ2ret">Discord</a>
     </p>
     <p align="center">
       <!--  <img src="https://user-images.githubusercontent.com/27600008/202980183-ba3ac0a3-217a-4f28-97f0-6efdb1d79d9f.jpg"/>  -->
