@@ -2,9 +2,6 @@
 <!-- April 15, 2021 -->
 <!-- leave a STAR, if you like it ! -->
 
-<!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/Humenger?v=3)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello World!, I am
@@ -71,12 +68,8 @@
     </p>
 </details>
 <br>
-    <!--  <p align="center">
-        更多逆向技术加入星球《<a href="https://t.zsxq.com/071NJKjZb">逆向涉猎</a>》获取
-    </p>
- -->
     <p align="center">
-        More reverse techniques join the planet 《<a href="https://t.zsxq.com/071NJKjZb">Reverse Dabbling</a>》 to get them.
+        Contact me: <a href="https://t.zsxq.com/13sBE3elb">Knowledge Planet</a>
     </p>
     <p align="center">
       <!--  <img src="https://user-images.githubusercontent.com/27600008/202980183-ba3ac0a3-217a-4f28-97f0-6efdb1d79d9f.jpg"/>  -->
